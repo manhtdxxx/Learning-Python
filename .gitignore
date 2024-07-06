@@ -1,3 +1,3 @@
 .idea
-PTIT/txt/
 PTIT/test/*.txt
+.ipynb_checkpoints

@@ -1,2 +1,2 @@
-# Learning_Python
+# Learning-Python
 This is a repo for beginners learning Python
